@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanboku",
  "yomi": "さんぼくきかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "大治3年（1128）頃",
+  "author": "源俊頼（自撰）",
+  "desc": "『金葉和歌集』の撰者、源俊頼の自撰家集。堀河院の百首などの歌を四季・恋・雑に分けて収め、連歌も載せる。新奇な歌風で知られる。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -18289,6 +18294,6 @@
   "poems": 1618,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
